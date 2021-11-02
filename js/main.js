@@ -12,8 +12,3 @@ closeModal.addEventListener('click', (e)=>{
     modal.classList.remove('modal--show');
 });
 
-window.addEventListener('click', fuction(e){
-if(e.target == flex){
-modal.classList.remove('modal--show')
-}
-});
