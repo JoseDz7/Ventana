@@ -2,8 +2,6 @@
 
 <p align="center"><img src="https://github.com/piratainformatico2/packages/blob/main/Images/20210928_223304.gif" width="360" height="115"/> </p>
 
-![version]
-![Tested]
 ![autor]
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com)
 
@@ -29,6 +27,4 @@
 
 
 <!-- MarkDown Links & Images -->
-[version]: https://img.shields.io/badge/Versi%C3%B3n-BETA%3A%20V.1.0-green
-[tested]: https://img.shields.io/badge/Probado-Google%20Firefox%20%7C%20Brave%20%7C%20
 [autor]: https://img.shields.io/badge/Author-%40Jose_Diaz-red
