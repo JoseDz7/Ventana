@@ -9,15 +9,18 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com)
 
 <details>
-<summary> ⚡𝕠𝕗𝕦𝕤𝕔𝕒𝕕𝕠𝕣⚡ </summary>
+<summary> ⚡Información⚡ </summary>
 <br>
 
-- Hola Que tal soy José Díaz o sharkcode Mi objetivo es ser reconocido en la comunidad de la programación ⚡
+- Hola Que tal soy José Díaz,Mi objetivo es ser reconocido en la comunidad de la programación ⚡
 
 - Este repositorio lo hice con mucho mucho cariño, para todos ustedes que son de termux una terminal de Linux para Android 🎮
 
 - Si deseas contactarme >>> +52 2283821202 (MX) 🇲🇽
 
 - Si deseas apoyarme con una estrella en mis repositorios
+
+- `NOTA: PAGINA BASADA EN : ALEXCG :)`
+
 </details>
 </br>
