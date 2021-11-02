@@ -63,13 +63,10 @@ body{
     width: 30px;
 }
 
-/* Hero main */
-
 .hero__main{
     grid-area: content;
     display: grid;
     gap: 2em;
-    /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
     grid-template-columns: 1fr 1fr;
     padding-bottom: 180px; 
     align-items: center;
