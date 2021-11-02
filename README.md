@@ -23,6 +23,7 @@
 </br>
 
 #Inicio :
+
 ![Image text](https://github.com/piratainformatico2/Ventana/blob/main/img/Screenshot_20211102-145420.png)
 
 
